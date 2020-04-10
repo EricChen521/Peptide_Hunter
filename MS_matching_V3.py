@@ -9,16 +9,29 @@ Created on Thu Mar 14 14:04:53 2019
 """
 # Add the post modificatio based on https://www.ncbi.nlm.nih.gov/pubmed/16314929
 
+<<<<<<< HEAD
+# mass shift reference:
+#https://www.sigmaaldrich.com/life-science/proteomics/post-translational-analysis/phosphorylation/mass-changes.html
+
+=======
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
 
 """
 In this script we will consider 
 
+<<<<<<< HEAD
+Variable modification:
+    
+ 1) Disulfide Bridge between Cys-Cys: delta_mass = -2 
+
+=======
 Fixed modification:
     
  1) Disulfide Bridge between Cys-Cys: delta_mass = -2 
 
 Variable modification:
 
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
  2) Phosphorylation (S/T/Y): Delta_mass = +80
     
  3) Hydroxylation of Proline( P), Lysine(Lys,K): delta_mass = +16
@@ -51,10 +64,18 @@ import argparse
 parser=argparse.ArgumentParser(description="Welcome to peptide hunter!")
 
 parser.add_argument("-file",help="Mass Spec xlsx result file")
+<<<<<<< HEAD
+parser.add_argument("-P",type=int,help="Max num of phosphorylation allowed on S/T/Y, Default = 0;",default=0)
+parser.add_argument("-OH",type=int,help="Max num of hydroxylation allowed on P/K, Default = 0;",default=0)
+parser.add_argument("-CO2",type=int,help="Max num of carboxylation allowed on E, Default = 0;",default=0)
+parser.add_argument("-Br",type=int,help="Max num of bromination allowed on W , Default = 0;",default=0 )
+parser.add_argument("-S",type=int,help="Max num of disulfide bond formed, Default = 0", default=0 )
+=======
 parser.add_argument("-P",type=int,help="Max number of phosphorylation allowed on S/T/Y, Default = 0;",default=0)
 parser.add_argument("-OH",type=int,help="Max num of hydroxylation allowed on P/K, Default = 0;",default=0)
 parser.add_argument("-CO2",type=int,help="Max num carboxylation allowed on E, Default = 0;",default=0)
 parser.add_argument("-Br",type=int,help="Max num bromination allowed on W , Default = 0;",default=0 )
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
 parser.add_argument("-NH2",help="Allow amidation on -XG,-XGR.-XGK,-XGRR if specified ",action="store_true")
 parser.add_argument("-Cyc",help="Allow cyclization of N-terminal Q if specified;",action="store_true")
 parser.add_argument("-Iso",help="Allow isotopic +1 +2 +3 shift if specified",action="store_true")
@@ -134,9 +155,15 @@ for i in range(df.shape[0]):
     
     # take the fixed disulfide bridge 
     
+<<<<<<< HEAD
+    #Cys_num=seq.count("C")
+    
+    #MW= MW- 2* int(Cys_num/2)
+=======
     Cys_num=seq.count("C")
     
     MW= MW- 2* int(Cys_num/2)
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
     MW_raw.append(MW)
     
 
@@ -202,29 +229,69 @@ MW_5[:d1,:d2,:d3,:d4,0]=MW_4
 for i in range(1,d5):
     
     MW_5[:d1,:d2,:d3,:d4,i] = MW_4 + i * 79
+<<<<<<< HEAD
+    
+
+#Sixth dimension for disulfide bond
+    
+d6=min(args.S,10) +1
+
+MW_6=np.zeros((d1,d2,d3,d4,d5,d6))
+
+MW_6[:d1,:d2,:d3,:d4,:d5,0]=MW_5
+
+for i in range(1,d6):
+    MW_6[:d1,:d2,:d3,:d4,:d5,i] = MW_5 - i * 2
+
+# Seventh dimension for Amidation in C-terminal
+=======
 
 # Sixth dimension for Amidation in C-terminal
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
     
 
   
 if args.NH2:
     
+<<<<<<< HEAD
+    d7=5
+
+    MW_7=np.zeros((d1,d2,d3,d4,d5,d6,d7))
+    
+    MW_7[:d1,:d2,:d3,:d4,:d5,:d6,0]=MW_5
+=======
     d6=5
 
     MW_6=np.zeros((d1,d2,d3,d4,d5,d6))
     
     MW_6[:d1,:d2,:d3,:d4,:d5,0]=MW_5
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
 
 
     NH2_shift=[-58.03,-186.13,-214.13,-370.23]
     
+<<<<<<< HEAD
+    for i in range(1,d7):
+    
+        MW_7[:d1,:d2,:d3,:d4,:d5,:d6,i]=MW_5 + NH2_shift[i-1]
+=======
     for i in range(1,d6):
     
         MW_6[:d1,:d2,:d3,:d4,:d5,i]=MW_5 + NH2_shift[i-1]
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
 
     
 else:
     
+<<<<<<< HEAD
+    d7=1
+    
+    MW_7=np.zeros((d1,d2,d3,d4,d5,d6,d7))
+    
+
+    
+    MW_7[:d1,:d2,:d3,:d4,:d5,:d6,0]=MW_6
+=======
     d6=1
     
     MW_6=np.zeros((d1,d2,d3,d4,d5,d6))
@@ -232,6 +299,7 @@ else:
 
     
     MW_6[:d1,:d2,:d3,:d4,:d5,0]=MW_5
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
 
 
 
@@ -239,6 +307,51 @@ else:
     
 
     
+<<<<<<< HEAD
+# Eighth dimensition for Cyclization 
+    
+if args.Cyc:
+    
+    d8=2
+    
+    MW_8=np.zeros((d1,d2,d3,d4,d5,d6,d7,d8))
+    
+    MW_8[:d1,:d2,:d3,:d4,:d5,:d6,:d7,0]=MW_7
+    
+    MW_8[:d1,:d2,:d3,:d4,:d5,:d6,:d7,1]=MW_7 -17 
+    
+else:
+    
+    d8=1
+    
+    MW_8=np.zeros((d1,d2,d3,d4,d5,d6,d7,d8))
+    
+    MW_8[:d1,:d2,:d3,:d4,:d5,:d6,:d7,0]=MW_7
+    
+    
+        
+# nineth Dimention for Isotopic (+1 +2,+3)
+    
+if args.Iso:
+    
+    d9 = 4
+    
+    MW_9=np.zeros((d1,d2,d3,d4,d5,d6,d7,d8,d9))
+    
+    MW_9[:d1,:d2,:d3,:d4,:d5,:d6,:d7,:d8,0]=MW_8
+    
+    for i in range(1,d9):
+        
+        MW_8[:d1,:d2,:d3,:d4,:d5,:d6,:d7,:d8,i]=MW_8 +i
+
+else:
+    
+    d9=1
+    
+    MW_9=np.zeros((d1,d2,d3,d4,d5,d6,d7,d8,d9))
+    
+    MW_9[:d1,:d2,:d3,:d4,:d5,:d6,:d7,:d8,0]=MW_8
+=======
 # Seventh dimensition for Cyclization 
     
 if args.Cyc:
@@ -282,6 +395,7 @@ else:
     MW_8=np.zeros((d1,d2,d3,d4,d5,d6,d7,d8))
     
     MW_8[:d1,:d2,:d3,:d4,:d5,:d6,:d7,0]=MW_7
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
     
     
 
@@ -296,7 +410,11 @@ file1=pd.ExcelFile(args.file)
 
 
 
+<<<<<<< HEAD
+sys.stdout=open("P["+str(args.P)+"]_"+"OH["+str(args.OH)+"]_CO2["+str(args.CO2)+"]_Br["+str(args.Br)+"]_S["+str(args.S)+"]_NH2["+str(args.NH2)+"]_Cyc["+str(args.Cyc)+"]_Iso["+str(args.Iso)+"]_tol["+str(args.t)+"]_output.txt","w+")
+=======
 sys.stdout=open("P["+str(args.P)+"]_"+"OH["+str(args.OH)+"]_CO2["+str(args.CO2)+"]_Br["+str(args.Br)+"]_NH2["+str(args.NH2)+"]_Cyc["+str(args.Cyc)+"]_Iso["+str(args.Iso)+"]_tol["+str(args.t)+"]_output.txt","w+")
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
 
 file1_sheets=file1.sheet_names
 
@@ -313,7 +431,11 @@ for species in file1_sheets:
         #tolerance=args.t
         tolerance=args.t
         
+<<<<<<< HEAD
+        coordinates=np.argwhere(abs(MW_9-value)<tolerance) 
+=======
         coordinates=np.argwhere(abs(MW_8-value)<tolerance) 
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
         
         if len(coordinates):
             
@@ -334,6 +456,22 @@ for species in file1_sheets:
                 Br_max=peptide_seq.count("W")                
                 Br_num=position[4]
                 
+<<<<<<< HEAD
+                S_max=int(peptide_seq.count("C")/2)
+                
+                S_num=position[5]
+                
+                
+                NH2_site=position[6]
+                
+                Cyc_able=int(peptide_seq[0]=="Q")
+                Cyc_site=position[7]
+                
+                Iso_position=position[8]
+                
+                
+                if (P_num <= P_max) and (OH_num <= OH_max) and (CO2_num <= CO2_max) and (Br_num <= Br_max) and (S_num <= S_max) and (Cyc_site <= Cyc_able):
+=======
                 
                 NH2_site=position[5]
                 
@@ -344,12 +482,17 @@ for species in file1_sheets:
                 
                 
                 if (P_num <= P_max) and (OH_num <= OH_max) and (CO2_num <= CO2_max) and (Cyc_site <= Cyc_able):
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
                     
                     if ((NH2_site == 0) or (NH2_site == 1 and peptide_seq[-1] == "G") or (NH2_site ==2 and peptide_seq[-2:]=="GK") or (NH2_site ==3 and peptide_seq[-2:]=="GR") or (NH2_site == 4 and peptide_seq[-3:]=="GRR")):
 
                     
                         print("Record_ID: {0}, Seq: {1}, Detected MW: {2}".format(Database_raw[peptide_index].name,Database_raw[peptide_index].seq,value))
                         
+<<<<<<< HEAD
+                        print("P_sites:{0}, OH_sites:{1}, CO2_sites:{2}, Br_site:{3}, Disulfide_bonds:{4},  NH2_cleavage: {5}, Cyc_sites:{6},Iso_plus:{7}".format(P_num,OH_num,CO2_num,Br_num,S_num,["None","G","GK,""GR","GRR"][NH2_site],Cyc_site,Iso_position))
+=======
                         print("P_sites:{0}, OH_sites:{1}, CO2_sites:{2}, Br_site:{3}, NH2_cleavage: {4}, Cyc_sites:{5},Iso_plus:{6}".format(P_num,OH_num,CO2_num,Br_num,["None","G","GK,""GR","GRR"][NH2_site],Cyc_site,Iso_position))
+>>>>>>> 487986588716ee0cae876ccd9407dc6bcf39ce76
                     
               
