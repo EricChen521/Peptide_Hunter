@@ -1,0 +1,521 @@
+In the venom: Sheet1, the detected peptides are:
+Record_ID in Library: 0, Seq: IRDECCSNPACRVNNPHVC, Detected/Theoretical MW: 2184.85/2184.902, MW diff: 0.052000000000134605, Record_ID in MS file: 0
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 70, Seq: IRDECCANPACRVNNPHVC, Detected/Theoretical MW: 2184.85/2184.907, MW diff: 0.057000000000243745, Record_ID in MS file: 0
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 1, Seq: GCKKDRKPCSYHADCCNCCLSGICAPSTNWILPGCSTSTFT, Detected/Theoretical MW: 4393.79/4393.864, MW diff: 0.07399999999961437, Record_ID in MS file: 1
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 2, Seq: ACSGRGSRCPPQCCMGLRCGRGNPQKCIGAHEDV, Detected/Theoretical MW: 3615.49/3615.556, MW diff: 0.0660000000002583, Record_ID in MS file: 2
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 12, Seq: GMWGECKDGLTTCLAPSECCSEDCEGSCTMW, Detected/Theoretical MW: 3615.49/3615.207, MW diff: -0.2829999999999018, Record_ID in MS file: 2
+P_sites:0, OH_sites:0, CO2_sites:3, Br_site:2, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 109, Seq: FGSFIPCAHKGEPCTICCRPLRCHEEKTPTCV, Detected/Theoretical MW: 3615.49/3615.627, MW diff: 0.13700000000017099, Record_ID in MS file: 2
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 110, Seq: YGNFPTCSETGEDCSAMHCCRSMTCRNNICAD, Detected/Theoretical MW: 3615.49/3616.3, MW diff: 0.8100000000004002, Record_ID in MS file: 2
+P_sites:0, OH_sites:1, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 3, Seq: NGVCCGYKLCHPC, Detected/Theoretical MW: 1407.52/1407.556, MW diff: 0.03600000000005821, Record_ID in MS file: 3
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 4, Seq: SCSGRDSRCPPVCCMGLMCSRGKCVSIYGE, Detected/Theoretical MW: 3209.28/3209.334, MW diff: 0.053999999999632564, Record_ID in MS file: 4
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 5, Seq: GCCGSFACRFGCVPCCV, Detected/Theoretical MW: 1720.57/1720.627, MW diff: 0.05700000000001637, Record_ID in MS file: 5
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 6, Seq: SKQCCHLAACRFGCTPCCW, Detected/Theoretical MW: 2125.79/2125.839, MW diff: 0.04899999999997817, Record_ID in MS file: 6
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 71, Seq: IRDECCSAPACRVNNPHVC, Detected/Theoretical MW: 2125.79/2125.896, MW diff: 0.10600000000022192, Record_ID in MS file: 6
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 123, Seq: RPECCTHPACHVSNPELCS, Detected/Theoretical MW: 2125.79/2125.854, MW diff: 0.06399999999985084, Record_ID in MS file: 6
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 7, Seq: TCKQKGEGCSLDVECCSSSCKPGGPLFDFDC, Detected/Theoretical MW: 3280.26/3280.316, MW diff: 0.05599999999958527, Record_ID in MS file: 7
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 37, Seq: YDCEPPGNFCGMIKIGPPCCSGWCFFACA, Detected/Theoretical MW: 3280.26/3280.233, MW diff: -0.027000000000043656, Record_ID in MS file: 7
+P_sites:0, OH_sites:3, CO2_sites:1, Br_site:1, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 8, Seq: CCAPSACRLGCRPCCR, Detected/Theoretical MW: 1707.63/1707.686, MW diff: 0.055999999999812644, Record_ID in MS file: 8
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 9, Seq: KCCMRPICMCPCCIGAG, Detected/Theoretical MW: 1797.64/1797.696, MW diff: 0.055999999999812644, Record_ID in MS file: 9
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 11, Seq: GCCPPQWCGPDCTSPCC, Detected/Theoretical MW: 1797.64/1797.564, MW diff: -0.07600000000002183, Record_ID in MS file: 9
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 44, Seq: CCPGWELCCEWDEW, Detected/Theoretical MW: 1797.64/1797.598, MW diff: -0.0420000000001437, Record_ID in MS file: 9
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 148, Seq: CCDDSECSTSCWPCCY, Detected/Theoretical MW: 1797.64/1797.501, MW diff: -0.1390000000001237, Record_ID in MS file: 9
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 10, Seq: GCCSPWNCIQLRACPCCPN, Detected/Theoretical MW: 2108.74/2108.808, MW diff: 0.068000000000211, Record_ID in MS file: 10
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 70, Seq: IRDECCANPACRVNNPHVC, Detected/Theoretical MW: 2108.74/2108.907, MW diff: 0.16700000000037107, Record_ID in MS file: 10
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 9, Seq: KCCMRPICMCPCCIGAG, Detected/Theoretical MW: 1813.5/1813.696, MW diff: 0.1959999999999127, Record_ID in MS file: 11
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 11, Seq: GCCPPQWCGPDCTSPCC, Detected/Theoretical MW: 1813.5/1813.564, MW diff: 0.06400000000007822, Record_ID in MS file: 11
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 44, Seq: CCPGWELCCEWDEW, Detected/Theoretical MW: 1813.5/1813.598, MW diff: 0.09799999999995634, Record_ID in MS file: 11
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 148, Seq: CCDDSECSTSCWPCCY, Detected/Theoretical MW: 1813.5/1813.501, MW diff: 0.0009999999999763531, Record_ID in MS file: 11
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 12, Seq: GMWGECKDGLTTCLAPSECCSEDCEGSCTMW, Detected/Theoretical MW: 3672.93/3675.207, MW diff: 2.2770000000000437, Record_ID in MS file: 12
+P_sites:0, OH_sites:1, CO2_sites:4, Br_site:2, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 35, Seq: WATIDECEETCNVTFKTCCGPPGDWQCVEACPV, Detected/Theoretical MW: 3672.93/3675.469, MW diff: 2.5390000000002146, Record_ID in MS file: 12
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 109, Seq: FGSFIPCAHKGEPCTICCRPLRCHEEKTPTCV, Detected/Theoretical MW: 3672.93/3675.627, MW diff: 2.6970000000001164, Record_ID in MS file: 12
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 13, Seq: DQSCPWCGFTCCLPNYCQGLTCTVI, Detected/Theoretical MW: 2764.06/2764.108, MW diff: 0.04800000000022919, Record_ID in MS file: 13
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 14, Seq: SKCFSPGTFCGIKPGLCCSVRCFSLFCISFE, Detected/Theoretical MW: 3391.46/3391.524, MW diff: 0.06399999999985084, Record_ID in MS file: 14
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 20, Seq: EACYNAGTFCGIKPGLCCSAICLSFVCISFDF, Detected/Theoretical MW: 3391.46/3391.471, MW diff: 0.010999999999967258, Record_ID in MS file: 14
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 120, Seq: DAADVKPVARHNDGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3391.46/3391.438, MW diff: -0.021999999999934516, Record_ID in MS file: 14
+P_sites:0, OH_sites:5, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 15, Seq: SCDSEFSSEFCEQPEERICSCSTHVCCHLSSSKRDQCMTWNRCLSAQTGN, Detected/Theoretical MW: 5860.16/5860.28, MW diff: 0.11999999999989086, Record_ID in MS file: 15
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 16, Seq: VCCGYKLCHPC, Detected/Theoretical MW: 1236.45/1236.491, MW diff: 0.04099999999993997, Record_ID in MS file: 16
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 17, Seq: KCNFDKCKGTGVYNCGESCSCEGLHSCRCTYNIGSMKSGCACICTYY, Detected/Theoretical MW: 5166.93/5167.035, MW diff: 0.10499999999956344, Record_ID in MS file: 17
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 18, Seq: GNWCCSARVCC, Detected/Theoretical MW: 1274.31/1275.43, MW diff: 1.1200000000001182, Record_ID in MS file: 18
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 19, Seq: DGCSSGGTFCGIRPGLCCSEFCFLWCITFID, Detected/Theoretical MW: 3346.33/3346.388, MW diff: 0.057999999999992724, Record_ID in MS file: 19
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 14, Seq: SKCFSPGTFCGIKPGLCCSVRCFSLFCISFE, Detected/Theoretical MW: 3391.42/3391.524, MW diff: 0.10399999999981446, Record_ID in MS file: 20
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 20, Seq: EACYNAGTFCGIKPGLCCSAICLSFVCISFDF, Detected/Theoretical MW: 3391.42/3391.471, MW diff: 0.05099999999993088, Record_ID in MS file: 20
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 120, Seq: DAADVKPVARHNDGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3391.42/3391.438, MW diff: 0.018000000000029104, Record_ID in MS file: 20
+P_sites:0, OH_sites:5, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 12, Seq: GMWGECKDGLTTCLAPSECCSEDCEGSCTMW, Detected/Theoretical MW: 3444.43/3445.207, MW diff: 0.7770000000000437, Record_ID in MS file: 21
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 21, Seq: DECYPPGTFCGIKPGLCCSAICLSFVCISFDF, Detected/Theoretical MW: 3444.43/3444.486, MW diff: 0.05600000000004002, Record_ID in MS file: 21
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 22, Seq: YGCSNAGAFCGIHPGLCCSELCLVWCT, Detected/Theoretical MW: 2816.1/2816.15, MW diff: 0.0500000000001819, Record_ID in MS file: 22
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 23, Seq: DECSAPGAFCLIRPGLCCSEFCFFACF, Detected/Theoretical MW: 2961.14/2961.197, MW diff: 0.057000000000243745, Record_ID in MS file: 23
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 63, Seq: GEEEHSKYQECLREIRVNNVQQEC, Detected/Theoretical MW: 2961.14/2961.324, MW diff: 0.18400000000019645, Record_ID in MS file: 23
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 24, Seq: DGCSNAGAFCGIHPGLCCSEICIVWCT, Detected/Theoretical MW: 2768.06/2768.114, MW diff: 0.05400000000008731, Record_ID in MS file: 24
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 25, Seq: DCTSWFGRCTVNSECCSNSCDQTYCELYAFPS, Detected/Theoretical MW: 3716.29/3716.36, MW diff: 0.07000000000016371, Record_ID in MS file: 25
+P_sites:0, OH_sites:1, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 26, Seq: DDESECIINTRDSPWGRCCRTRMCGSMCCPRNGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5731.18/5731.278, MW diff: 0.09799999999995634, Record_ID in MS file: 26
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 83, Seq: DNEAECQIDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5731.18/5731.147, MW diff: -0.03300000000035652, Record_ID in MS file: 26
+P_sites:0, OH_sites:3, CO2_sites:1, Br_site:2, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 27, Seq: DVQDCQVSTPGSKWGRCCLNRVCGPMCCPASHCYCVYHRGRGHGCSC, Detected/Theoretical MW: 5124.01/5124.097, MW diff: 0.08699999999953434, Record_ID in MS file: 27
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 28, Seq: CCGIPNAACHPCVCTGKC, Detected/Theoretical MW: 1804.63/1804.685, MW diff: 0.05499999999983629, Record_ID in MS file: 28
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 29, Seq: CCGVPNAACHPCVCTGKC, Detected/Theoretical MW: 1790.61/1790.67, MW diff: 0.060000000000172804, Record_ID in MS file: 29
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 22, Seq: YGCSNAGAFCGIHPGLCCSELCLVWCT, Detected/Theoretical MW: 2844.05/2844.15, MW diff: 0.09999999999990905, Record_ID in MS file: 30
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 30, Seq: CLSPGSSCSPTSYNCCRSCNPYSRKC, Detected/Theoretical MW: 2844.05/2844.111, MW diff: 0.06099999999969441, Record_ID in MS file: 30
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 31, Seq: CKPPGSPCRVSSYNCCSSCKSYNKKCG, Detected/Theoretical MW: 2911.16/2911.221, MW diff: 0.06100000000014916, Record_ID in MS file: 31
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 100, Seq: GDEEVAKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 2911.16/2910.43, MW diff: -0.7300000000000182, Record_ID in MS file: 31
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 102, Seq: GDEEVSKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 2911.16/2910.425, MW diff: -0.7349999999996726, Record_ID in MS file: 31
+P_sites:0, OH_sites:1, CO2_sites:2, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 32, Seq: VGVCCGYKLCHPC, Detected/Theoretical MW: 1392.54/1392.581, MW diff: 0.04099999999993997, Record_ID in MS file: 32
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 50, Seq: ICCYPNVWCCD, Detected/Theoretical MW: 1392.54/1392.465, MW diff: -0.07500000000004547, Record_ID in MS file: 32
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 33, Seq: GICCGVSFCYPC, Detected/Theoretical MW: 1262.42/1262.459, MW diff: 0.03899999999998727, Record_ID in MS file: 33
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 34, Seq: CKSPGTPCSRGMRDCCTSCLLYSNKCRRY, Detected/Theoretical MW: 3313.38/3313.437, MW diff: 0.056999999999789, Record_ID in MS file: 34
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 35, Seq: WATIDECEETCNVTFKTCCGPPGDWQCVEACPV, Detected/Theoretical MW: 3913.28/3914.469, MW diff: 1.1889999999998508, Record_ID in MS file: 35
+P_sites:0, OH_sites:2, CO2_sites:4, Br_site:1, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 36, Seq: ICCYPNEWCCD, Detected/Theoretical MW: 1465.31/1466.439, MW diff: 1.1290000000001328, Record_ID in MS file: 36
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 37, Seq: YDCEPPGNFCGMIKIGPPCCSGWCFFACA, Detected/Theoretical MW: 3203.09/3204.233, MW diff: 1.143000000000029, Record_ID in MS file: 37
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:1, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 40, Seq: GEEEVAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3203.09/3204.404, MW diff: 1.3139999999998508, Record_ID in MS file: 37
+P_sites:0, OH_sites:4, CO2_sites:5, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 103, Seq: GEEEYAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3203.09/3204.399, MW diff: 1.3089999999997417, Record_ID in MS file: 37
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 38, Seq: CKSPGTPCSRGMRDCCTSCLSYSNKCRRY, Detected/Theoretical MW: 3287.33/3287.385, MW diff: 0.05500000000029104, Record_ID in MS file: 38
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 39, Seq: WFGHEECTYWLGPCEVDDTCCSASCESKFCGLW, Detected/Theoretical MW: 4194.1/4197.464, MW diff: 3.363999999999578, Record_ID in MS file: 39
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:3, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 40, Seq: GEEEVAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3096.35/3096.404, MW diff: 0.05400000000008731, Record_ID in MS file: 40
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 41, Seq: DECCEPQWCDGACDCCS, Detected/Theoretical MW: 1963.44/1963.513, MW diff: 0.0729999999998654, Record_ID in MS file: 41
+P_sites:0, OH_sites:1, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 45, Seq: CCPGWELCCEWDDGW, Detected/Theoretical MW: 1963.44/1963.604, MW diff: 0.16399999999998727, Record_ID in MS file: 41
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 42, Seq: DCGGQGEGCYTQPCCPGLRCRGGGTGGGVCQL, Detected/Theoretical MW: 3114.19/3114.25, MW diff: 0.05999999999994543, Record_ID in MS file: 42
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 43, Seq: SKQCCHLPACRFGCTPCCW, Detected/Theoretical MW: 2151.8/2151.855, MW diff: 0.05499999999983629, Record_ID in MS file: 43
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 9, Seq: KCCMRPICMCPCCIGAG, Detected/Theoretical MW: 1797.56/1797.696, MW diff: 0.13599999999996726, Record_ID in MS file: 44
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 11, Seq: GCCPPQWCGPDCTSPCC, Detected/Theoretical MW: 1797.56/1797.564, MW diff: 0.004000000000132786, Record_ID in MS file: 44
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 44, Seq: CCPGWELCCEWDEW, Detected/Theoretical MW: 1797.56/1797.598, MW diff: 0.038000000000010914, Record_ID in MS file: 44
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 148, Seq: CCDDSECSTSCWPCCY, Detected/Theoretical MW: 1797.56/1797.501, MW diff: -0.05899999999996908, Record_ID in MS file: 44
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 45, Seq: CCPGWELCCEWDDGW, Detected/Theoretical MW: 1840.56/1840.604, MW diff: 0.044000000000096406, Record_ID in MS file: 45
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 46, Seq: CCITFESCCEFDL, Detected/Theoretical MW: 1595.49/1595.544, MW diff: 0.05400000000008731, Record_ID in MS file: 46
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 36, Seq: ICCYPNEWCCD, Detected/Theoretical MW: 1482.45/1482.439, MW diff: -0.010999999999967258, Record_ID in MS file: 47
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 47, Seq: CCQVMPQCCEWN, Detected/Theoretical MW: 1482.45/1482.491, MW diff: 0.04099999999993997, Record_ID in MS file: 47
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 48, Seq: CCQIVPQCCEWN, Detected/Theoretical MW: 1464.49/1464.535, MW diff: 0.04500000000007276, Record_ID in MS file: 48
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 49, Seq: DGCSSGGTFCGIHPGLCCSEFCFLWCITFID, Detected/Theoretical MW: 3327.29/3327.346, MW diff: 0.05600000000004002, Record_ID in MS file: 49
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 120, Seq: DAADVKPVARHNDGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3327.29/3327.438, MW diff: 0.14800000000013824, Record_ID in MS file: 49
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 32, Seq: VGVCCGYKLCHPC, Detected/Theoretical MW: 1391.34/1392.581, MW diff: 1.2409999999999854, Record_ID in MS file: 50
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 50, Seq: ICCYPNVWCCD, Detected/Theoretical MW: 1391.34/1392.465, MW diff: 1.125, Record_ID in MS file: 50
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 39, Seq: WFGHEECTYWLGPCEVDDTCCSASCESKFCGLW, Detected/Theoretical MW: 4118.84/4118.464, MW diff: -0.3760000000002037, Record_ID in MS file: 51
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:2, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 51, Seq: CRVENKCPHTVCCDRSRCSCKLIRTRPLMYHVCVC, Detected/Theoretical MW: 4118.84/4118.904, MW diff: 0.06400000000030559, Record_ID in MS file: 51
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 12, Seq: GMWGECKDGLTTCLAPSECCSEDCEGSCTMW, Detected/Theoretical MW: 3515.33/3515.207, MW diff: -0.1230000000000473, Record_ID in MS file: 52
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:2, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 52, Seq: CGGTGDSCNEPAGELCCRRLKCVNSRCCPTTDGC, Detected/Theoretical MW: 3515.33/3515.401, MW diff: 0.07099999999991269, Record_ID in MS file: 52
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 53, Seq: GCDPTDGCQTTVCETDTGPCCCKPNFTCQISNSGTKSCSCSGQPSDCPV, Detected/Theoretical MW: 5061.78/5061.891, MW diff: 0.11099999999987631, Record_ID in MS file: 53
+P_sites:0, OH_sites:4, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 54, Seq: LCPDYTEPCSHAHECCSWNCYNGHCTG, Detected/Theoretical MW: 3143.0/3143.075, MW diff: 0.0749999999998181, Record_ID in MS file: 54
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 99, Seq: GEEEVAKFIELARENIAKGCKVNCYP, Detected/Theoretical MW: 3143.0/3143.442, MW diff: 0.4420000000000073, Record_ID in MS file: 54
+P_sites:0, OH_sites:1, CO2_sites:5, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 55, Seq: NGVCCGYKLCHPCAG, Detected/Theoretical MW: 1517.57/1535.614, MW diff: 18.044000000000096, Record_ID in MS file: 55
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 56, Seq: VCCGYPLCHPC, Detected/Theoretical MW: 1205.41/1205.449, MW diff: 0.03899999999998727, Record_ID in MS file: 56
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 57, Seq: DWEYHAHPKPNSFWT, Detected/Theoretical MW: 1929.84/1929.849, MW diff: 0.009000000000014552, Record_ID in MS file: 57
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 58, Seq: RPQCCSHPACNVDHPEIC, Detected/Theoretical MW: 2035.78/2035.817, MW diff: 0.03700000000003456, Record_ID in MS file: 58
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 59, Seq: CCNAGFCRFGCTPCCY, Detected/Theoretical MW: 1756.54/1756.59, MW diff: 0.049999999999954525, Record_ID in MS file: 59
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 77, Seq: ECCSNPACRVNNPHVC, Detected/Theoretical MW: 1756.54/1756.69, MW diff: 0.15000000000009095, Record_ID in MS file: 59
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 60, Seq: DCRGYDAPCSSGAPCCDWWTCSARTNRCF, Detected/Theoretical MW: 3396.0/3398.234, MW diff: 2.2339999999999236, Record_ID in MS file: 60
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:2, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 107, Seq: DAADVKPVARTNEGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3396.0/3397.442, MW diff: 1.4420000000000073, Record_ID in MS file: 60
+P_sites:0, OH_sites:4, CO2_sites:2, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 31, Seq: CKPPGSPCRVSSYNCCSSCKSYNKKCG, Detected/Theoretical MW: 2927.21/2943.221, MW diff: 16.010999999999967, Record_ID in MS file: 61
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 61, Seq: CIEQFDPCDMIRHTCCVGVCFLMACI, Detected/Theoretical MW: 2927.21/2943.231, MW diff: 16.021000000000186, Record_ID in MS file: 61
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 98, Seq: GDEEYSKMAAEREREAGRLDLSKFP, Detected/Theoretical MW: 2927.21/2943.382, MW diff: 16.172000000000025, Record_ID in MS file: 61
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 62, Seq: GEEEHSKYQECLREIRVNKVQQEC, Detected/Theoretical MW: 3151.31/3151.376, MW diff: 0.0660000000002583, Record_ID in MS file: 62
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 98, Seq: GDEEYSKMAAEREREAGRLDLSKFP, Detected/Theoretical MW: 3151.31/3151.382, MW diff: 0.07200000000011642, Record_ID in MS file: 62
+P_sites:0, OH_sites:3, CO2_sites:5, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 63, Seq: GEEEHSKYQECLREIRVNNVQQEC, Detected/Theoretical MW: 3137.26/3137.324, MW diff: 0.06399999999985084, Record_ID in MS file: 63
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 96, Seq: GDEEYSKFIELARENIAKGCKVNCYP, Detected/Theoretical MW: 3137.26/3137.416, MW diff: 0.15599999999994907, Record_ID in MS file: 63
+P_sites:0, OH_sites:2, CO2_sites:3, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 64, Seq: DEPEYAEAIREYQLKYGKI, Detected/Theoretical MW: 2446.12/2446.148, MW diff: 0.028000000000247383, Record_ID in MS file: 64
+P_sites:0, OH_sites:0, CO2_sites:3, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 65, Seq: GEDEYAEGIREYQLIHGKI, Detected/Theoretical MW: 2351.05/2351.086, MW diff: 0.03599999999960346, Record_ID in MS file: 65
+P_sites:0, OH_sites:0, CO2_sites:3, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 66, Seq: ARDECCSNPACRVNNPHVC, Detected/Theoretical MW: 2098.82/2098.855, MW diff: 0.03499999999985448, Record_ID in MS file: 66
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 69, Seq: IRDACCSNPACRVNNPHVC, Detected/Theoretical MW: 2098.82/2098.897, MW diff: 0.07699999999977081, Record_ID in MS file: 66
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 72, Seq: IRDECCSNAACRVNNPHVC, Detected/Theoretical MW: 2098.82/2098.887, MW diff: 0.06700000000000728, Record_ID in MS file: 66
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 67, Seq: IADECCSNPACRVNNPHVC, Detected/Theoretical MW: 2055.8/2055.8379999999997, MW diff: 0.03799999999955617, Record_ID in MS file: 67
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 68, Seq: IRAECCSNPACRVNNPHVC, Detected/Theoretical MW: 2096.88/2096.912, MW diff: 0.03199999999969805, Record_ID in MS file: 68
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 73, Seq: IRDECCSNPACRANNPHVC, Detected/Theoretical MW: 2096.88/2096.871, MW diff: -0.009000000000014552, Record_ID in MS file: 68
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 66, Seq: ARDECCSNPACRVNNPHVC, Detected/Theoretical MW: 2082.86/2082.855, MW diff: -0.005000000000109139, Record_ID in MS file: 69
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 69, Seq: IRDACCSNPACRVNNPHVC, Detected/Theoretical MW: 2082.86/2082.897, MW diff: 0.03699999999980719, Record_ID in MS file: 69
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 0, Seq: IRDECCSNPACRVNNPHVC, Detected/Theoretical MW: 2124.87/2124.902, MW diff: 0.032000000000152795, Record_ID in MS file: 70
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 68, Seq: IRAECCSNPACRVNNPHVC, Detected/Theoretical MW: 2124.87/2124.912, MW diff: 0.041999999999916326, Record_ID in MS file: 70
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 70, Seq: IRDECCANPACRVNNPHVC, Detected/Theoretical MW: 2124.87/2124.907, MW diff: 0.037000000000261934, Record_ID in MS file: 70
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 71, Seq: IRDECCSAPACRVNNPHVC, Detected/Theoretical MW: 2097.86/2097.896, MW diff: 0.03600000000005821, Record_ID in MS file: 71
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 66, Seq: ARDECCSNPACRVNNPHVC, Detected/Theoretical MW: 2114.85/2114.855, MW diff: 0.005000000000109139, Record_ID in MS file: 72
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 72, Seq: IRDECCSNAACRVNNPHVC, Detected/Theoretical MW: 2114.85/2114.887, MW diff: 0.037000000000261934, Record_ID in MS file: 72
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 68, Seq: IRAECCSNPACRVNNPHVC, Detected/Theoretical MW: 2112.83/2112.912, MW diff: 0.08199999999987995, Record_ID in MS file: 73
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 73, Seq: IRDECCSNPACRANNPHVC, Detected/Theoretical MW: 2112.83/2112.871, MW diff: 0.04100000000016735, Record_ID in MS file: 73
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 74, Seq: IRDECCSNPACRVNNPAVC, Detected/Theoretical MW: 2074.84/2074.881, MW diff: 0.0409999999997126, Record_ID in MS file: 74
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 75, Seq: ADECCSNPACRVNNPHVC, Detected/Theoretical MW: 1946.75/1942.754, MW diff: -3.9960000000000946, Record_ID in MS file: 75
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 76, Seq: AECCSNPACRVNNPHVC, Detected/Theoretical MW: 1827.69/1827.727, MW diff: 0.03700000000003456, Record_ID in MS file: 76
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 105, Seq: SCCNAGFCRFGCTPCCY, Detected/Theoretical MW: 1827.69/1827.622, MW diff: -0.06799999999998363, Record_ID in MS file: 76
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 59, Seq: CCNAGFCRFGCTPCCY, Detected/Theoretical MW: 1756.65/1756.59, MW diff: -0.060000000000172804, Record_ID in MS file: 77
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 77, Seq: ECCSNPACRVNNPHVC, Detected/Theoretical MW: 1756.65/1756.69, MW diff: 0.03999999999996362, Record_ID in MS file: 77
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 78, Seq: ACCSNPACRVNNPHVC, Detected/Theoretical MW: 1698.65/1698.685, MW diff: 0.03499999999985448, Record_ID in MS file: 78
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 79, Seq: CCSNPACRVNNPHVC, Detected/Theoretical MW: 1627.61/1627.648, MW diff: 0.038000000000010914, Record_ID in MS file: 79
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 80, Seq: DVRECQVDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5452.09/5452.178, MW diff: 0.08799999999973807, Record_ID in MS file: 80
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 81, Seq: EVQECQVDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5498.05/5498.151, MW diff: 0.10099999999965803, Record_ID in MS file: 81
+P_sites:0, OH_sites:1, CO2_sites:2, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 84, Seq: DVRECNINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5498.05/5498.201, MW diff: 0.15099999999983993, Record_ID in MS file: 81
+P_sites:0, OH_sites:3, CO2_sites:1, Br_site:1, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 87, Seq: DNEAECQINTPGSSWGKCCMTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5498.05/5498.121, MW diff: 0.07099999999991269, Record_ID in MS file: 81
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 80, Seq: DVRECQVDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5614.1/5614.178, MW diff: 0.07799999999951979, Record_ID in MS file: 82
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:2, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 82, Seq: NDESECIISTPGSSWGRCCLTRMCGTMCCPRSGCYCVYHWRRGHGCACSD, Detected/Theoretical MW: 5614.1/5614.201, MW diff: 0.10099999999965803, Record_ID in MS file: 82
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 83, Seq: DNEAECQIDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5541.05/5541.147, MW diff: 0.09699999999975262, Record_ID in MS file: 83
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 84, Seq: DVRECNINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5387.1/5387.201, MW diff: 0.10099999999965803, Record_ID in MS file: 84
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 84, Seq: DVRECNINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5391.1/5391.201, MW diff: 0.10099999999965803, Record_ID in MS file: 85
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 85, Seq: DVRECNINTPGSSWGKCCLTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5391.1/5391.196, MW diff: 0.09599999999954889, Record_ID in MS file: 85
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 129, Seq: DKWGTCSLLGKGCRHHSDCCWDLCCTGKTCVMTVLPCLFLSLIVRWT, Detected/Theoretical MW: 5391.1/5390.467, MW diff: -0.6330000000007203, Record_ID in MS file: 85
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:1, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 86, Seq: DVRECQVNTPGSSWGKCCMTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5409.06/5409.152, MW diff: 0.09199999999964348, Record_ID in MS file: 86
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 81, Seq: EVQECQVDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5536.04/5482.151, MW diff: -53.889000000000124, Record_ID in MS file: 87
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 84, Seq: DVRECNINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5536.04/5482.201, MW diff: -53.83899999999994, Record_ID in MS file: 87
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:1, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 87, Seq: DNEAECQINTPGSSWGKCCMTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5536.04/5482.121, MW diff: -53.91899999999987, Record_ID in MS file: 87
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 86, Seq: DVRECQVNTPGSSWGKCCMTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5514.09/5460.152, MW diff: -53.9380000000001, Record_ID in MS file: 88
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:1, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 88, Seq: DNEAECQINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5514.09/5460.17, MW diff: -53.92000000000007, Record_ID in MS file: 88
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 93, Seq: DARECQVNTPGSRWGKCCLNRMCGPMCCPESHCYCIYHRRRGHGCSC, Detected/Theoretical MW: 5514.09/5460.207, MW diff: -53.88299999999981, Record_ID in MS file: 88
+P_sites:0, OH_sites:4, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 133, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACLIF, Detected/Theoretical MW: 5514.09/5460.145, MW diff: -53.94499999999971, Record_ID in MS file: 88
+P_sites:0, OH_sites:0, CO2_sites:3, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 134, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHIF, Detected/Theoretical MW: 5514.09/5460.12, MW diff: -53.970000000000255, Record_ID in MS file: 88
+P_sites:0, OH_sites:4, CO2_sites:1, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 135, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHTF, Detected/Theoretical MW: 5514.09/5460.084, MW diff: -54.00600000000031, Record_ID in MS file: 88
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 89, Seq: DVQECQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGKGHGCSC, Detected/Theoretical MW: 5180.06/5180.158, MW diff: 0.09799999999995634, Record_ID in MS file: 89
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 90, Seq: DVQECQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGRGHGCSC, Detected/Theoretical MW: 5180.06/5180.164, MW diff: 0.10399999999935972, Record_ID in MS file: 89
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 90, Seq: DVQECQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGRGHGCSC, Detected/Theoretical MW: 5208.07/5208.164, MW diff: 0.09400000000005093, Record_ID in MS file: 90
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 91, Seq: DAQGCQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGRGHGCSC, Detected/Theoretical MW: 5064.03/5064.112, MW diff: 0.0820000000003347, Record_ID in MS file: 91
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 92, Seq: DARECQVNTPGSRWGKCCLNRMCGPMCCPESHCYCVYHRRRGHGCSC, Detected/Theoretical MW: 5398.1/5398.192, MW diff: 0.09199999999964348, Record_ID in MS file: 92
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 93, Seq: DARECQVNTPGSRWGKCCLNRMCGPMCCPESHCYCIYHRRRGHGCSC, Detected/Theoretical MW: 5412.11/5412.207, MW diff: 0.09700000000066211, Record_ID in MS file: 93
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 134, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHIF, Detected/Theoretical MW: 5412.11/5412.12, MW diff: 0.010000000000218279, Record_ID in MS file: 93
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 94, Seq: DCIPGGENCDVFRPYRCCSGYCILLLCA, Detected/Theoretical MW: 3152.26/3152.33, MW diff: 0.06999999999970896, Record_ID in MS file: 94
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 101, Seq: GEEEYSKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3152.26/3152.394, MW diff: 0.1339999999995598, Record_ID in MS file: 94
+P_sites:0, OH_sites:4, CO2_sites:2, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 95, Seq: GDEEYSKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 3046.38/3046.42, MW diff: 0.03999999999996362, Record_ID in MS file: 95
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 96, Seq: GDEEYSKFIELARENIAKGCKVNCYP, Detected/Theoretical MW: 3149.36/3149.416, MW diff: 0.05600000000004002, Record_ID in MS file: 96
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 127, Seq: DDETTFPCNSGRCACLPEDSHSYTCQSP, Detected/Theoretical MW: 3149.36/3150.179, MW diff: 0.81899999999996, Record_ID in MS file: 96
+P_sites:0, OH_sites:3, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 97, Seq: GEEEVAKMAAEREREAGRLDLSKFP, Detected/Theoretical MW: 3024.31/2993.408, MW diff: -30.902000000000044, Record_ID in MS file: 97
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 98, Seq: GDEEYSKMAAEREREAGRLDLSKFP, Detected/Theoretical MW: 3090.29/3059.382, MW diff: -30.9079999999999, Record_ID in MS file: 98
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 99, Seq: GEEEVAKFIELARENIAKGCKVNCYP, Detected/Theoretical MW: 3090.29/3059.442, MW diff: -30.847999999999956, Record_ID in MS file: 98
+P_sites:0, OH_sites:4, CO2_sites:2, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 146, Seq: STDCNGVPCEFGCCVTINGNDECREIGCE, Detected/Theoretical MW: 3090.29/3060.159, MW diff: -30.130999999999858, Record_ID in MS file: 98
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 54, Seq: LCPDYTEPCSHAHECCSWNCYNGHCTG, Detected/Theoretical MW: 3083.38/3083.075, MW diff: -0.30500000000029104, Record_ID in MS file: 99
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 99, Seq: GEEEVAKFIELARENIAKGCKVNCYP, Detected/Theoretical MW: 3083.38/3083.442, MW diff: 0.06199999999989814, Record_ID in MS file: 99
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 100, Seq: GDEEVAKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 2966.39/2966.43, MW diff: 0.03999999999996362, Record_ID in MS file: 100
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 101, Seq: GEEEYSKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3207.28/3176.394, MW diff: -30.886000000000422, Record_ID in MS file: 101
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 103, Seq: GEEEYAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3207.28/3176.399, MW diff: -30.881000000000313, Record_ID in MS file: 101
+P_sites:0, OH_sites:1, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 100, Seq: GDEEVAKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 2982.38/2982.43, MW diff: 0.04999999999972715, Record_ID in MS file: 102
+P_sites:0, OH_sites:1, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 102, Seq: GDEEVSKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 2982.38/2982.425, MW diff: 0.04500000000007276, Record_ID in MS file: 102
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 40, Seq: GEEEVAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3174.36/3160.404, MW diff: -13.956000000000131, Record_ID in MS file: 103
+P_sites:0, OH_sites:4, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 103, Seq: GEEEYAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3174.36/3160.399, MW diff: -13.96100000000024, Record_ID in MS file: 103
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 104, Seq: CFIRNCPP, Detected/Theoretical MW: 962.41/962.431, MW diff: 0.02100000000007185, Record_ID in MS file: 104
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 76, Seq: AECCSNPACRVNNPHVC, Detected/Theoretical MW: 1843.57/1843.727, MW diff: 0.1570000000001528, Record_ID in MS file: 105
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 105, Seq: SCCNAGFCRFGCTPCCY, Detected/Theoretical MW: 1843.57/1843.622, MW diff: 0.052000000000134605, Record_ID in MS file: 105
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 106, Seq: LPPCCTPPKKHCPAPACKYKPCCKS, Detected/Theoretical MW: 2805.19/2805.27, MW diff: 0.07999999999992724, Record_ID in MS file: 106
+P_sites:0, OH_sites:7, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 107, Seq: DAADVKPVARTNEGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3309.39/3309.442, MW diff: 0.052000000000134605, Record_ID in MS file: 107
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 108, Seq: CCDWPCNAGCVPCCF, Detected/Theoretical MW: 1631.48/1629.516, MW diff: -1.9639999999999418, Record_ID in MS file: 108
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 52, Seq: CGGTGDSCNEPAGELCCRRLKCVNSRCCPTTDGC, Detected/Theoretical MW: 3619.56/3619.401, MW diff: -0.1590000000001055, Record_ID in MS file: 109
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 109, Seq: FGSFIPCAHKGEPCTICCRPLRCHEEKTPTCV, Detected/Theoretical MW: 3619.56/3619.627, MW diff: 0.06700000000000728, Record_ID in MS file: 109
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 110, Seq: YGNFPTCSETGEDCSAMHCCRSMTCRNNICAD, Detected/Theoretical MW: 3528.25/3528.3, MW diff: 0.0500000000001819, Record_ID in MS file: 110
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 125, Seq: GDACSLLNGDDCGPGELCCTPSGDHQGTCETSCW, Detected/Theoretical MW: 3528.25/3528.261, MW diff: 0.010999999999967258, Record_ID in MS file: 110
+P_sites:0, OH_sites:1, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 111, Seq: RCCGYKMCHPC, Detected/Theoretical MW: 1311.44/1311.48, MW diff: 0.03999999999996362, Record_ID in MS file: 111
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 112, Seq: GVCCGVSFCYPC, Detected/Theoretical MW: 1248.41/1248.444, MW diff: 0.03399999999987813, Record_ID in MS file: 112
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 113, Seq: LPPCCSLNLRLCPAPACKYKPCCKS, Detected/Theoretical MW: 2781.22/2781.296, MW diff: 0.07600000000002183, Record_ID in MS file: 113
+P_sites:0, OH_sites:5, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 114, Seq: LPPCCSLNKKHCPAPACKYKPCCKS, Detected/Theoretical MW: 2792.2/2792.276, MW diff: 0.07600000000002183, Record_ID in MS file: 114
+P_sites:0, OH_sites:5, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 115, Seq: LPPCCTPPLRLCPAPACKYKPCCKS, Detected/Theoretical MW: 2794.21/2794.29, MW diff: 0.07999999999992724, Record_ID in MS file: 115
+P_sites:0, OH_sites:7, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 116, Seq: LPPCCTPPKRLCPAPACKYKPCCKS, Detected/Theoretical MW: 2809.22/2809.301, MW diff: 0.08100000000013097, Record_ID in MS file: 116
+P_sites:0, OH_sites:7, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 117, Seq: TNEGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 2270.85/2270.891, MW diff: 0.04100000000016735, Record_ID in MS file: 117
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 118, Seq: DAADVKPVARQNEGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3336.4/3336.453, MW diff: 0.052999999999883585, Record_ID in MS file: 118
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 119, Seq: QNEGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 2297.86/2297.902, MW diff: 0.041999999999916326, Record_ID in MS file: 119
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 120, Seq: DAADVKPVARHNDGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3331.39/3331.438, MW diff: 0.04800000000022919, Record_ID in MS file: 120
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 121, Seq: HNDGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 2292.84/2292.887, MW diff: 0.047000000000025466, Record_ID in MS file: 121
+P_sites:0, OH_sites:3, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 122, Seq: GCWLCLGPNACCRGSVCHDYCPS, Detected/Theoretical MW: 2530.8/2531.946, MW diff: 1.1459999999997308, Record_ID in MS file: 122
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:1, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 151, Seq: SCGGSCFGGCWPGCSCYARTCFRD, Detected/Theoretical MW: 2530.8/2531.915, MW diff: 1.1149999999997817, Record_ID in MS file: 122
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 6, Seq: SKQCCHLAACRFGCTPCCW, Detected/Theoretical MW: 2109.81/2109.839, MW diff: 0.028999999999996362, Record_ID in MS file: 123
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 123, Seq: RPECCTHPACHVSNPELCS, Detected/Theoretical MW: 2109.81/2109.854, MW diff: 0.04399999999986903, Record_ID in MS file: 123
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 124, Seq: SLCDKPHHNCIDGQTCYHTCCQNGLKCVRYP, Detected/Theoretical MW: 3561.46/3561.513, MW diff: 0.052999999999883585, Record_ID in MS file: 124
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 118, Seq: DAADVKPVARQNEGPGRDPAPCCQHPIETCC, Detected/Theoretical MW: 3456.2/3456.453, MW diff: 0.25300000000015643, Record_ID in MS file: 125
+P_sites:0, OH_sites:6, CO2_sites:2, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 125, Seq: GDACSLLNGDDCGPGELCCTPSGDHQGTCETSCW, Detected/Theoretical MW: 3456.2/3456.261, MW diff: 0.06100000000014916, Record_ID in MS file: 125
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 126, Seq: TFEPNAEECIVDGRCKHRSDWPCEMSSGTTGRCDVSLGACGCSN, Detected/Theoretical MW: 4832.86/4832.943, MW diff: 0.08300000000053842, Record_ID in MS file: 126
+P_sites:0, OH_sites:0, CO2_sites:3, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 95, Seq: GDEEYSKFIEREREAGRLDLSKFP, Detected/Theoretical MW: 3090.14/3090.42, MW diff: 0.2800000000002001, Record_ID in MS file: 127
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 127, Seq: DDETTFPCNSGRCACLPEDSHSYTCQSP, Detected/Theoretical MW: 3090.14/3090.179, MW diff: 0.03900000000021464, Record_ID in MS file: 127
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 128, Seq: CCHPACGKHFNC, Detected/Theoretical MW: 1330.45/1330.483, MW diff: 0.032999999999901775, Record_ID in MS file: 128
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 129, Seq: DKWGTCSLLGKGCRHHSDCCWDLCCTGKTCVMTVLPCLFLSLIVRWT, Detected/Theoretical MW: 5295.4/5295.467, MW diff: 0.06700000000000728, Record_ID in MS file: 129
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 39, Seq: WFGHEECTYWLGPCEVDDTCCSASCESKFCGLW, Detected/Theoretical MW: 4105.41/4106.464, MW diff: 1.0540000000000873, Record_ID in MS file: 130
+P_sites:0, OH_sites:2, CO2_sites:3, Br_site:2, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 130, Seq: TTAESWWEGECLGWSNGCTHPSDCCSNYCKGIYCDL, Detected/Theoretical MW: 4105.41/4106.5509999999995, MW diff: 1.1409999999996217, Record_ID in MS file: 130
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:1, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 131, Seq: SCDSEFSSEFCEQPEERICSCSTHVCCHLSSRKRDQCMTWNRCLSAQTGN, Detected/Theoretical MW: 5929.23/5929.35, MW diff: 0.12000000000080036, Record_ID in MS file: 131
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 132, Seq: SCDSEFSSEFCEQPEERICSCSTHVCCHLSSRQKGSQCTTWNRCLSAQTGN, Detected/Theoretical MW: 5856.24/5856.341, MW diff: 0.10100000000056752, Record_ID in MS file: 132
+P_sites:0, OH_sites:0, CO2_sites:4, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 129, Seq: DKWGTCSLLGKGCRHHSDCCWDLCCTGKTCVMTVLPCLFLSLIVRWT, Detected/Theoretical MW: 5548.03/5548.467, MW diff: 0.43699999999989814, Record_ID in MS file: 133
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:3, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 133, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACLIF, Detected/Theoretical MW: 5548.03/5548.145, MW diff: 0.11500000000069122, Record_ID in MS file: 133
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 134, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHIF, Detected/Theoretical MW: 5548.03/5548.12, MW diff: 0.09000000000014552, Record_ID in MS file: 133
+P_sites:0, OH_sites:4, CO2_sites:3, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 135, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHTF, Detected/Theoretical MW: 5548.03/5548.084, MW diff: 0.05400000000008731, Record_ID in MS file: 133
+P_sites:0, OH_sites:2, CO2_sites:4, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 134, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHIF, Detected/Theoretical MW: 5572.0/5572.12, MW diff: 0.11999999999989086, Record_ID in MS file: 134
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 83, Seq: DNEAECQIDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, Detected/Theoretical MW: 5559.97/5560.147, MW diff: 0.17699999999967986, Record_ID in MS file: 135
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:1, Disulfide_bonds:5,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 134, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHIF, Detected/Theoretical MW: 5559.97/5560.12, MW diff: 0.1499999999996362, Record_ID in MS file: 135
+P_sites:0, OH_sites:2, CO2_sites:4, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 135, Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHTF, Detected/Theoretical MW: 5559.97/5560.084, MW diff: 0.113999999999578, Record_ID in MS file: 135
+P_sites:0, OH_sites:0, CO2_sites:5, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 136, Seq: DWVNHAHPQPNSIWS, Detected/Theoretical MW: 1818.81/1818.818, MW diff: 0.008000000000038199, Record_ID in MS file: 136
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 137, Seq: CLDGGEICGICFQAAAVGGALFSSAHETTVMSSTPLCATWLDL, Detected/Theoretical MW: 4418.87/4419.987, MW diff: 1.1170000000001892, Record_ID in MS file: 137
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:1, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 142, Seq: CSSGKTCGSVEPVLCCARSDCYCRLIQTRSYWVPICVCP, Detected/Theoretical MW: 4418.87/4419.92, MW diff: 1.050000000000182, Record_ID in MS file: 137
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:1, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 138, Seq: CIDGGEICDIFFQTAAVGGALFSSAHETTVMSSTPLCATWLDL, Detected/Theoretical MW: 4563.03/4563.063, MW diff: 0.03300000000035652, Record_ID in MS file: 138
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 139, Seq: CLDAGEMCDLLIQNAAVGGALFSSAHKTTVMSSTPLCATWLDL, Detected/Theoretical MW: 4589.0/4590.114, MW diff: 1.113999999999578, Record_ID in MS file: 139
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:1, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 143, Seq: CRSGKTCPRVGPDVCCERSDCFCKLVPARPFWRYRCICL, Detected/Theoretical MW: 4589.0/4590.117, MW diff: 1.1170000000001892, Record_ID in MS file: 139
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 140, Seq: CCQIVPQCCEWVSD, Detected/Theoretical MW: 1651.58/1651.619, MW diff: 0.03899999999998727, Record_ID in MS file: 140
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 141, Seq: ACCVYKICYPC, Detected/Theoretical MW: 1276.47/1276.511, MW diff: 0.04099999999993997, Record_ID in MS file: 141
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 130, Seq: TTAESWWEGECLGWSNGCTHPSDCCSNYCKGIYCDL, Detected/Theoretical MW: 4308.85/4308.5509999999995, MW diff: -0.29900000000088767, Record_ID in MS file: 142
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:3, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 142, Seq: CSSGKTCGSVEPVLCCARSDCYCRLIQTRSYWVPICVCP, Detected/Theoretical MW: 4308.85/4308.92, MW diff: 0.06999999999970896, Record_ID in MS file: 142
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 139, Seq: CLDAGEMCDLLIQNAAVGGALFSSAHKTTVMSSTPLCATWLDL, Detected/Theoretical MW: 4606.03/4606.114, MW diff: 0.08399999999983265, Record_ID in MS file: 143
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:1, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 143, Seq: CRSGKTCPRVGPDVCCERSDCFCKLVPARPFWRYRCICL, Detected/Theoretical MW: 4606.03/4606.117, MW diff: 0.08700000000044383, Record_ID in MS file: 143
+P_sites:0, OH_sites:3, CO2_sites:1, Br_site:0, Disulfide_bonds:4,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 98, Seq: GDEEYSKMAAEREREAGRLDLSKFP, Detected/Theoretical MW: 3004.09/3003.382, MW diff: -0.7080000000000837, Record_ID in MS file: 144
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 144, Seq: STDCNGVPCQFGCCVTINGNDECRELDC, Detected/Theoretical MW: 3004.09/3004.138, MW diff: 0.047999999999774445, Record_ID in MS file: 144
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 150, Seq: ADEEYLKFIEEQRKQGKLDPTKFP, Detected/Theoretical MW: 3004.09/3004.497, MW diff: 0.40699999999969805, Record_ID in MS file: 144
+P_sites:0, OH_sites:6, CO2_sites:0, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 145, Seq: IEEDCGYVPCEFGCCRIIDGKEKCREIDCQ, Detected/Theoretical MW: 3462.41/3462.464, MW diff: 0.05400000000008731, Record_ID in MS file: 145
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 94, Seq: DCIPGGENCDVFRPYRCCSGYCILLLCA, Detected/Theoretical MW: 3076.11/3076.33, MW diff: 0.2199999999997999, Record_ID in MS file: 146
+P_sites:0, OH_sites:0, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 98, Seq: GDEEYSKMAAEREREAGRLDLSKFP, Detected/Theoretical MW: 3076.11/3075.382, MW diff: -0.7280000000000655, Record_ID in MS file: 146
+P_sites:0, OH_sites:1, CO2_sites:4, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 101, Seq: GEEEYSKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3076.11/3076.394, MW diff: 0.28399999999965075, Record_ID in MS file: 146
+P_sites:0, OH_sites:2, CO2_sites:1, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 103, Seq: GEEEYAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3076.11/3076.399, MW diff: 0.2889999999997599, Record_ID in MS file: 146
+P_sites:0, OH_sites:3, CO2_sites:1, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 144, Seq: STDCNGVPCQFGCCVTINGNDECRELDC, Detected/Theoretical MW: 3076.11/3076.138, MW diff: 0.027999999999792635, Record_ID in MS file: 146
+P_sites:0, OH_sites:0, CO2_sites:2, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 146, Seq: STDCNGVPCEFGCCVTINGNDECREIGCE, Detected/Theoretical MW: 3076.11/3076.159, MW diff: 0.04899999999997817, Record_ID in MS file: 146
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 150, Seq: ADEEYLKFIEEQRKQGKLDPTKFP, Detected/Theoretical MW: 3076.11/3076.497, MW diff: 0.38699999999971624, Record_ID in MS file: 146
+P_sites:0, OH_sites:5, CO2_sites:2, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 147, Seq: NCCPIDEESCCS, Detected/Theoretical MW: 1341.36/1341.403, MW diff: 0.04300000000012005, Record_ID in MS file: 147
+P_sites:0, OH_sites:0, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 9, Seq: KCCMRPICMCPCCIGAG, Detected/Theoretical MW: 1813.45/1813.696, MW diff: 0.2459999999998672, Record_ID in MS file: 148
+P_sites:0, OH_sites:2, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 11, Seq: GCCPPQWCGPDCTSPCC, Detected/Theoretical MW: 1813.45/1813.564, MW diff: 0.11400000000003274, Record_ID in MS file: 148
+P_sites:0, OH_sites:4, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 44, Seq: CCPGWELCCEWDEW, Detected/Theoretical MW: 1813.45/1813.598, MW diff: 0.14799999999991087, Record_ID in MS file: 148
+P_sites:0, OH_sites:1, CO2_sites:1, Br_site:0, Disulfide_bonds:2,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 148, Seq: CCDDSECSTSCWPCCY, Detected/Theoretical MW: 1813.45/1813.501, MW diff: 0.05099999999993088, Record_ID in MS file: 148
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 149, Seq: NCPYCVVYCCPPAYCQASGCRPP, Detected/Theoretical MW: 2502.93/2502.987, MW diff: 0.057000000000243745, Record_ID in MS file: 149
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 40, Seq: GEEEVAKMAAELARENIAKGCKVNCYP, Detected/Theoretical MW: 3040.47/3040.404, MW diff: -0.06599999999980355, Record_ID in MS file: 150
+P_sites:0, OH_sites:2, CO2_sites:2, Br_site:0, Disulfide_bonds:1,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 150, Seq: ADEEYLKFIEEQRKQGKLDPTKFP, Detected/Theoretical MW: 3040.47/3040.497, MW diff: 0.027000000000043656, Record_ID in MS file: 150
+P_sites:0, OH_sites:0, CO2_sites:3, Br_site:0, Disulfide_bonds:0,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 122, Seq: GCWLCLGPNACCRGSVCHDYCPS, Detected/Theoretical MW: 2531.86/2531.946, MW diff: 0.08599999999978536, Record_ID in MS file: 151
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:1, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Record_ID in Library: 151, Seq: SCGGSCFGGCWPGCSCYARTCFRD, Detected/Theoretical MW: 2531.86/2531.915, MW diff: 0.05499999999983629, Record_ID in MS file: 151
+P_sites:0, OH_sites:1, CO2_sites:0, Br_site:0, Disulfide_bonds:3,  NH2_cleavage: None, Cyc_sites:0,Iso_plus:0
+Total_hit num=259, Positive_hit num=152, False_positive_rate=0.4131274131274131 
+
