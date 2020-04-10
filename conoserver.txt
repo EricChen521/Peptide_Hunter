@@ -1,0 +1,304 @@
+####seq0####
+Seq: IRDECCSNPACRVNNPHVC, mono_mass: 2184.85, calculated_mass: 2124.902313, diff: -59.94768699999986, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq1####
+Seq: GCKKDRKPCSYHADCCNCCLSGICAPSTNWILPGCSTSTFT, mono_mass: 4393.79, calculated_mass: 4361.863759000002, diff: -31.9262409999983, PTM: ['<modification position="26" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq2####
+Seq: ACSGRGSRCPPQCCMGLRCGRGNPQKCIGAHEDV, mono_mass: 3615.49, calculated_mass: 3539.555983, diff: -75.93401699999959, PTM: ['<modification position="32" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq3####
+Seq: NGVCCGYKLCHPC, mono_mass: 1407.52, calculated_mass: 1391.555599, diff: -15.964400999999953, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq4####
+Seq: SCSGRDSRCPPVCCMGLMCSRGKCVSIYGE, mono_mass: 3209.28, calculated_mass: 3177.3342730000013, diff: -31.945726999998897, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq5####
+Seq: GCCGSFACRFGCVPCCV, mono_mass: 1720.57, calculated_mass: 1704.6267300000002, diff: -15.943269999999757, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq6####
+Seq: SKQCCHLAACRFGCTPCCW, mono_mass: 2125.79, calculated_mass: 2109.8391820000006, diff: -15.950817999999344, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq7####
+Seq: TCKQKGEGCSLDVECCSSSCKPGGPLFDFDC, mono_mass: 3280.26, calculated_mass: 3236.31569, diff: -43.944310000000314, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq8####
+Seq: CCAPSACRLGCRPCCR, mono_mass: 1707.63, calculated_mass: 1691.6863110000004, diff: -15.943688999999722, PTM: ['<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq9####
+Seq: KCCMRPICMCPCCIGAG, mono_mass: 1797.64, calculated_mass: 1781.6964059999998, diff: -15.943594000000303, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq10####
+Seq: GCCSPWNCIQLRACPCCPN, mono_mass: 2108.74, calculated_mass: 2060.807548, diff: -47.93245199999956, PTM: ['<modification position="18" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq11####
+Seq: GCCPPQWCGPDCTSPCC, mono_mass: 1813.5, calculated_mass: 1749.56419, diff: -63.93580999999995, PTM: ['<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq12####
+Seq: GMWGECKDGLTTCLAPSECCSEDCEGSCTMW, mono_mass: 3672.93, calculated_mass: 3325.2074590000016, diff: -347.7225409999983, PTM: ['<modification position="31" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="25" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="22" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="18" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq13####
+Seq: DQSCPWCGFTCCLPNYCQGLTCTVI, mono_mass: 2764.06, calculated_mass: 2748.10787, diff: -15.952130000000125, PTM: ['<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq14####
+Seq: SKCFSPGTFCGIKPGLCCSVRCFSLFCISFE, mono_mass: 3391.46, calculated_mass: 3359.5237740000007, diff: -31.93622599999935, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="6" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq15####
+Seq: SCDSEFSSEFCEQPEERICSCSTHVCCHLSSSKRDQCMTWNRCLSAQTGN, mono_mass: 5860.16, calculated_mass: 5640.280478000002, diff: -219.87952199999745, PTM: ['<modification position="16" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="12" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq16####
+Seq: VCCGYKLCHPC, mono_mass: 1236.45, calculated_mass: 1220.491209, diff: -15.95879100000002, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq17####
+Seq: KCNFDKCKGTGVYNCGESCSCEGLHSCRCTYNIGSMKSGCACICTYY, mono_mass: 5166.93, calculated_mass: 5079.035071, diff: -87.89492900000005, PTM: ['<modification position="22" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="17" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq18####
+Seq: GNWCCSARVCC, mono_mass: 1274.31, calculated_mass: 1196.4296700000002, diff: -77.88032999999973, PTM: ['<modification position="3" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq19####
+Seq: DGCSSGGTFCGIRPGLCCSEFCFLWCITFID, mono_mass: 3346.33, calculated_mass: 3330.3880670000003, diff: -15.941932999999608, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq20####
+Seq: EACYNAGTFCGIKPGLCCSAICLSFVCISFDF, mono_mass: 3391.42, calculated_mass: 3375.471067000001, diff: -15.948932999999215, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq21####
+Seq: DECYPPGTFCGIKPGLCCSAICLSFVCISFDF, mono_mass: 3444.43, calculated_mass: 3428.4863850000006, diff: -15.943614999999227, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq22####
+Seq: YGCSNAGAFCGIHPGLCCSELCLVWCT, mono_mass: 2816.1, calculated_mass: 2800.150402000001, diff: -15.949597999998787, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq23####
+Seq: DECSAPGAFCLIRPGLCCSEFCFFACF, mono_mass: 2961.14, calculated_mass: 2929.1970199999996, diff: -31.94298000000026, PTM: ['<modification position="6" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq24####
+Seq: DGCSNAGAFCGIHPGLCCSEICIVWCT, mono_mass: 2768.06, calculated_mass: 2752.114017000001, diff: -15.94598299999916, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq25####
+Seq: DCTSWFGRCTVNSECCSNSCDQTYCELYAFPS, mono_mass: 3716.29, calculated_mass: 3612.3600720000004, diff: -103.92992799999956, PTM: ['<modification position="31" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="26" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq26####
+Seq: DDESECIINTRDSPWGRCCRTRMCGSMCCPRNGCTCVYHWRRGHGCSCPG, mono_mass: 5731.18, calculated_mass: 5643.277555, diff: -87.90244500000063, PTM: ['<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq27####
+Seq: DVQDCQVSTPGSKWGRCCLNRVCGPMCCPASHCYCVYHRGRGHGCSC, mono_mass: 5124.01, calculated_mass: 5108.096661, diff: -15.913339000000633, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq28####
+Seq: CCGIPNAACHPCVCTGKC, mono_mass: 1804.63, calculated_mass: 1772.6853070000004, diff: -31.94469299999969, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq29####
+Seq: CCGVPNAACHPCVCTGKC, mono_mass: 1790.61, calculated_mass: 1758.6696570000001, diff: -31.940342999999757, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq30####
+Seq: CLSPGSSCSPTSYNCCRSCNPYSRKC, mono_mass: 2844.05, calculated_mass: 2796.111057, diff: -47.93894300000011, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq31####
+Seq: CKPPGSPCRVSSYNCCSSCKSYNKKCG, mono_mass: 2911.16, calculated_mass: 2879.220942000001, diff: -31.939057999999022, PTM: ['<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq32####
+Seq: VGVCCGYKLCHPC, mono_mass: 1392.54, calculated_mass: 1376.581086, diff: -15.95891400000005, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq33####
+Seq: GICCGVSFCYPC, mono_mass: 1262.42, calculated_mass: 1246.459239, diff: -15.960761000000048, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq34####
+Seq: CKSPGTPCSRGMRDCCTSCLLYSNKCRRY, mono_mass: 3313.38, calculated_mass: 3281.437099000001, diff: -31.942900999998983, PTM: ['<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq35####
+Seq: WATIDECEETCNVTFKTCCGPPGDWQCVEACPV, mono_mass: 3913.28, calculated_mass: 3627.4688960000008, diff: -285.81110399999943, PTM: ['<modification position="29" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="22" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="8" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="6" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="1" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq36####
+Seq: ICCYPNEWCCD, mono_mass: 1465.31, calculated_mass: 1343.439233, diff: -121.87076699999989, PTM: ['<modification position="8" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq37####
+Seq: YDCEPPGNFCGMIKIGPPCCSGWCFFACA, mono_mass: 3203.09, calculated_mass: 3109.2327520000003, diff: -93.8572479999998, PTM: ['<modification position="23" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="18" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq38####
+Seq: CKSPGTPCSRGMRDCCTSCLSYSNKCRRY, mono_mass: 3287.33, calculated_mass: 3255.385063000001, diff: -31.944936999998845, PTM: ['<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq39####
+Seq: WFGHEECTYWLGPCEVDDTCCSASCESKFCGLW, mono_mass: 4194.1, calculated_mass: 3784.4641450000004, diff: -409.635855, PTM: ['<modification position="33" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="26" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="6" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="1" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq40####
+Seq: GEEEVAKMAAELARENIAKGCKVNCYP, mono_mass: 3096.35, calculated_mass: 2920.4037749999998, diff: -175.94622500000014, PTM: ['<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="11" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq41####
+Seq: DECCEPQWCDGACDCCS, mono_mass: 1963.44, calculated_mass: 1859.512942, diff: -103.92705799999999, PTM: ['<modification position="6" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="2" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq42####
+Seq: DCGGQGEGCYTQPCCPGLRCRGGGTGGGVCQL, mono_mass: 3114.19, calculated_mass: 3082.250005000001, diff: -31.93999499999927, PTM: ['<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq43####
+Seq: SKQCCHLPACRFGCTPCCW, mono_mass: 2151.8, calculated_mass: 2135.8548330000003, diff: -15.945166999999856, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq44####
+Seq: CCPGWELCCEWDEW, mono_mass: 1797.56, calculated_mass: 1753.5982529999997, diff: -43.96174700000029, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq45####
+Seq: CCPGWELCCEWDDGW, mono_mass: 1840.56, calculated_mass: 1796.6040659999996, diff: -43.9559340000003, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq46####
+Seq: CCITFESCCEFDL, mono_mass: 1595.49, calculated_mass: 1507.5440919999999, diff: -87.94590800000014, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="6" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq47####
+Seq: CCQVMPQCCEWN, mono_mass: 1482.45, calculated_mass: 1438.49095, diff: -43.959049999999934, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq48####
+Seq: CCQIVPQCCEWN, mono_mass: 1464.49, calculated_mass: 1420.5345300000001, diff: -43.95546999999988, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq49####
+Seq: DGCSSGGTFCGIHPGLCCSEFCFLWCITFID, mono_mass: 3327.29, calculated_mass: 3311.345868000001, diff: -15.944131999999172, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq50####
+Seq: ICCYPNVWCCD, mono_mass: 1391.34, calculated_mass: 1313.4650540000002, diff: -77.87494599999968, PTM: ['<modification position="8" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq51####
+Seq: CRVENKCPHTVCCDRSRCSCKLIRTRPLMYHVCVC, mono_mass: 4118.84, calculated_mass: 4102.904405000001, diff: -15.935594999999012, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq52####
+Seq: CGGTGDSCNEPAGELCCRRLKCVNSRCCPTTDGC, mono_mass: 3515.33, calculated_mass: 3499.400847, diff: -15.929153000000042, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq53####
+Seq: GCDPTDGCQTTVCETDTGPCCCKPNFTCQISNSGTKSCSCSGQPSDCPV, mono_mass: 5061.78, calculated_mass: 4953.890636000001, diff: -107.88936399999875, PTM: ['<modification position="48" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="44" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="19" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq54####
+Seq: LCPDYTEPCSHAHECCSWNCYNGHCTG, mono_mass: 3143.0, calculated_mass: 3023.0753999999997, diff: -119.92460000000028, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq55####
+Seq: NGVCCGYKLCHPCAG, mono_mass: 1517.57, calculated_mass: 1519.6141750000002, diff: 2.044175000000223, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq56####
+Seq: VCCGYPLCHPC, mono_mass: 1205.41, calculated_mass: 1189.44901, diff: -15.960990000000038, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq57####
+Seq: DWEYHAHPKPNSFWT, mono_mass: 1929.84, calculated_mass: 1913.8485300000004, diff: -15.991469999999481, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq58####
+Seq: RPQCCSHPACNVDHPEIC, mono_mass: 2035.78, calculated_mass: 2003.8171870000003, diff: -31.96281299999964, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq59####
+Seq: CCNAGFCRFGCTPCCY, mono_mass: 1756.54, calculated_mass: 1740.5903440000002, diff: -15.949655999999777, PTM: ['<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq60####
+Seq: DCRGYDAPCSSGAPCCDWWTCSARTNRCF, mono_mass: 3396.0, calculated_mass: 3224.2343589999996, diff: -171.76564100000041, PTM: ['<modification position="19" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="18" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq61####
+Seq: CIEQFDPCDMIRHTCCVGVCFLMACI, mono_mass: 2927.21, calculated_mass: 2943.230646, diff: 16.020645999999942, PTM: ['<modification position="10" symbol="Mox" name="Oxomethionine"/>\n']
+####seq62####
+Seq: GEEEHSKYQECLREIRVNKVQQEC, mono_mass: 3151.31, calculated_mass: 2931.3759839999993, diff: -219.9340160000006, PTM: ['<modification position="23" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq63####
+Seq: GEEEHSKYQECLREIRVNNVQQEC, mono_mass: 3137.26, calculated_mass: 2917.3239479999993, diff: -219.93605200000093, PTM: ['<modification position="23" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq64####
+Seq: DEPEYAEAIREYQLKYGKI, mono_mass: 2446.12, calculated_mass: 2314.1481230000004, diff: -131.9718769999995, PTM: ['<modification position="11" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq65####
+Seq: GEDEYAEGIREYQLIHGKI, mono_mass: 2351.05, calculated_mass: 2219.0858570000005, diff: -131.9641429999997, PTM: ['<modification position="11" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq66####
+Seq: ARDECCSNPACRVNNPHVC, mono_mass: 2098.82, calculated_mass: 2082.8553620000002, diff: -15.964637999999923, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq67####
+Seq: IADECCSNPACRVNNPHVC, mono_mass: 2055.8, calculated_mass: 2039.8383150000004, diff: -15.961684999999761, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq68####
+Seq: IRAECCSNPACRVNNPHVC, mono_mass: 2096.88, calculated_mass: 2080.912483, diff: -15.967517000000043, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq69####
+Seq: IRDACCSNPACRVNNPHVC, mono_mass: 2082.86, calculated_mass: 2066.8968330000002, diff: -15.963166999999885, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq70####
+Seq: IRDECCANPACRVNNPHVC, mono_mass: 2124.87, calculated_mass: 2108.9073980000003, diff: -15.962601999999606, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq71####
+Seq: IRDECCSAPACRVNNPHVC, mono_mass: 2097.86, calculated_mass: 2081.8964990000004, diff: -15.963500999999724, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq72####
+Seq: IRDECCSNAACRVNNPHVC, mono_mass: 2114.85, calculated_mass: 2098.886662, diff: -15.963338000000022, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq73####
+Seq: IRDECCSNPACRANNPHVC, mono_mass: 2112.83, calculated_mass: 2096.871012, diff: -15.958987999999863, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq74####
+Seq: IRDECCSNPACRVNNPAVC, mono_mass: 2074.84, calculated_mass: 2058.880514, diff: -15.959486000000197, PTM: ['<modification position="16" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq75####
+Seq: ADECCSNPACRVNNPHVC, mono_mass: 1946.75, calculated_mass: 1926.754251, diff: -19.995748999999932, PTM: ['<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq76####
+Seq: AECCSNPACRVNNPHVC, mono_mass: 1827.69, calculated_mass: 1811.7273079999998, diff: -15.962692000000288, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq77####
+Seq: ECCSNPACRVNNPHVC, mono_mass: 1756.65, calculated_mass: 1740.690195, diff: -15.959805000000188, PTM: ['<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq78####
+Seq: ACCSNPACRVNNPHVC, mono_mass: 1698.65, calculated_mass: 1682.684715, diff: -15.965284999999994, PTM: ['<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq79####
+Seq: CCSNPACRVNNPHVC, mono_mass: 1627.61, calculated_mass: 1611.6476020000002, diff: -15.962397999999666, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq80####
+Seq: DVRECQVDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, mono_mass: 5452.09, calculated_mass: 5408.178022999999, diff: -43.91197700000157, PTM: ['<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq81####
+Seq: EVQECQVDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, mono_mass: 5498.05, calculated_mass: 5394.151139, diff: -103.89886100000058, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="1" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq82####
+Seq: NDESECIISTPGSSWGRCCLTRMCGTMCCPRSGCYCVYHWRRGHGCACSD, mono_mass: 5614.1, calculated_mass: 5526.20126, diff: -87.89874000000054, PTM: ['<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq83####
+Seq: DNEAECQIDTPGSSWGKCCMTRMCGTMCCSRSVCTCVYHWRRGHGCSCPG, mono_mass: 5541.05, calculated_mass: 5481.146781, diff: -59.90321899999981, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq84####
+Seq: DVRECNINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, mono_mass: 5387.1, calculated_mass: 5327.200806999999, diff: -59.899193000001105, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq85####
+Seq: DVRECNINTPGSSWGKCCLTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, mono_mass: 5391.1, calculated_mass: 5331.195721, diff: -59.904279000000315, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq86####
+Seq: DVRECQVNTPGSSWGKCCMTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, mono_mass: 5409.06, calculated_mass: 5349.152140999999, diff: -59.907859000001736, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq87####
+Seq: DNEAECQINTPGSSWGKCCMTRMCGTMCCARSGCTCVYHWRRGHGCSCPG, mono_mass: 5536.04, calculated_mass: 5422.1208990000005, diff: -113.9191009999995, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq88####
+Seq: DNEAECQINTPGSSWGKCCLTRMCGPMCCARSGCTCVYHWRRGHGCSCPG, mono_mass: 5514.09, calculated_mass: 5400.169564999999, diff: -113.92043500000091, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq89####
+Seq: DVQECQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGKGHGCSC, mono_mass: 5180.06, calculated_mass: 5120.1581989999995, diff: -59.90180100000089, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq90####
+Seq: DVQECQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGRGHGCSC, mono_mass: 5208.07, calculated_mass: 5148.164347, diff: -59.9056529999998, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq91####
+Seq: DAQGCQVVTPGSKWGRCCLNRVCGPMCCPASHCYCIYHRGRGHGCSC, mono_mass: 5064.03, calculated_mass: 5048.111916, diff: -15.918083999999908, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq92####
+Seq: DARECQVNTPGSRWGKCCLNRMCGPMCCPESHCYCVYHRRRGHGCSC, mono_mass: 5398.1, calculated_mass: 5338.191641000001, diff: -59.90835899999911, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq93####
+Seq: DARECQVNTPGSRWGKCCLNRMCGPMCCPESHCYCIYHRRRGHGCSC, mono_mass: 5412.11, calculated_mass: 5352.207291000002, diff: -59.90270899999723, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq94####
+Seq: DCIPGGENCDVFRPYRCCSGYCILLLCA, mono_mass: 3152.26, calculated_mass: 3076.330159000001, diff: -75.92984099999921, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq95####
+Seq: GDEEYSKFIEREREAGRLDLSKFP, mono_mass: 3046.38, calculated_mass: 2870.419882, diff: -175.96011799999997, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq96####
+Seq: GDEEYSKFIELARENIAKGCKVNCYP, mono_mass: 3149.36, calculated_mass: 2973.4157219999997, diff: -175.9442780000004, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq97####
+Seq: GEEEVAKMAAEREREAGRLDLSKFP, mono_mass: 3024.31, calculated_mass: 2817.407935, diff: -206.90206499999977, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq98####
+Seq: GDEEYSKMAAEREREAGRLDLSKFP, mono_mass: 3090.29, calculated_mass: 2883.382114, diff: -206.90788599999996, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq99####
+Seq: GEEEVAKFIELARENIAKGCKVNCYP, mono_mass: 3083.38, calculated_mass: 2907.441543, diff: -175.9384570000002, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq100####
+Seq: GDEEVAKFIEREREAGRLDLSKFP, mono_mass: 2966.39, calculated_mass: 2790.430053, diff: -175.95994699999983, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq101####
+Seq: GEEEYSKMAAELARENIAKGCKVNCYP, mono_mass: 3207.28, calculated_mass: 3000.393604, diff: -206.88639600000033, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq102####
+Seq: GDEEVSKFIEREREAGRLDLSKFP, mono_mass: 2982.38, calculated_mass: 2806.424968, diff: -175.9550320000003, PTM: ['<modification position="14" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq103####
+Seq: GEEEYAKMAAELARENIAKGCKVNCYP, mono_mass: 3174.36, calculated_mass: 2984.3986889999996, diff: -189.96131100000048, PTM: ['<modification position="147" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq104####
+Seq: CFIRNCPP, mono_mass: 962.41, calculated_mass: 946.4309770000001, diff: -15.97902299999987, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq105####
+Seq: SCCNAGFCRFGCTPCCY, mono_mass: 1843.57, calculated_mass: 1827.6223720000005, diff: -15.94762799999944, PTM: ['<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq106####
+Seq: LPPCCTPPKKHCPAPACKYKPCCKS, mono_mass: 2805.19, calculated_mass: 2693.2700680000003, diff: -111.91993199999979, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="3" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq107####
+Seq: DAADVKPVARTNEGPGRDPAPCCQHPIETCC, mono_mass: 3309.39, calculated_mass: 3245.4423630000006, diff: -63.947636999999304, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="19" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq108####
+Seq: CCDWPCNAGCVPCCF, mono_mass: 1631.48, calculated_mass: 1613.5157840000004, diff: -17.964215999999624, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq109####
+Seq: FGSFIPCAHKGEPCTICCRPLRCHEEKTPTCV, mono_mass: 3619.56, calculated_mass: 3555.6270110000005, diff: -63.93298899999945, PTM: ['<modification position="29" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="20" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="6" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq110####
+Seq: YGNFPTCSETGEDCSAMHCCRSMTCRNNICAD, mono_mass: 3528.25, calculated_mass: 3512.3004640000004, diff: -15.949535999999625, PTM: ['<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq111####
+Seq: RCCGYKMCHPC, mono_mass: 1311.44, calculated_mass: 1295.480326, diff: -15.95967399999995, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq112####
+Seq: GVCCGVSFCYPC, mono_mass: 1248.41, calculated_mass: 1232.4435890000002, diff: -15.96641099999988, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq113####
+Seq: LPPCCSLNLRLCPAPACKYKPCCKS, mono_mass: 2781.22, calculated_mass: 2701.296282, diff: -79.92371800000001, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="3" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq114####
+Seq: LPPCCSLNKKHCPAPACKYKPCCKS, mono_mass: 2792.2, calculated_mass: 2712.275881, diff: -79.92411899999979, PTM: ['<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="3" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq115####
+Seq: LPPCCTPPLRLCPAPACKYKPCCKS, mono_mass: 2794.21, calculated_mass: 2682.290469, diff: -111.919531, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="3" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq116####
+Seq: LPPCCTPPKRLCPAPACKYKPCCKS, mono_mass: 2809.22, calculated_mass: 2697.301368, diff: -111.91863199999989, PTM: ['<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="3" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq117####
+Seq: TNEGPGRDPAPCCQHPIETCC, mono_mass: 2270.85, calculated_mass: 2222.8914720000002, diff: -47.95852799999966, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="9" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq118####
+Seq: DAADVKPVARQNEGPGRDPAPCCQHPIETCC, mono_mass: 3336.4, calculated_mass: 3272.4532620000004, diff: -63.94673799999964, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="19" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq119####
+Seq: QNEGPGRDPAPCCQHPIETCC, mono_mass: 2297.86, calculated_mass: 2249.9023710000006, diff: -47.95762899999954, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="9" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq120####
+Seq: DAADVKPVARHNDGPGRDPAPCCQHPIETCC, mono_mass: 3331.39, calculated_mass: 3267.4379470000003, diff: -63.95205299999952, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="19" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="15" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="7" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq121####
+Seq: HNDGPGRDPAPCCQHPIETCC, mono_mass: 2292.84, calculated_mass: 2244.8870560000005, diff: -47.95294399999966, PTM: ['<modification position="11" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="9" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="5" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq122####
+Seq: GCWLCLGPNACCRGSVCHDYCPS, mono_mass: 2530.8, calculated_mass: 2436.9458310000005, diff: -93.85416899999973, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="3" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq123####
+Seq: RPECCTHPACHVSNPELCS, mono_mass: 2109.81, calculated_mass: 2077.8539660000006, diff: -31.956033999999363, PTM: ['<modification position="2" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq124####
+Seq: SLCDKPHHNCIDGQTCYHTCCQNGLKCVRYP, mono_mass: 3561.46, calculated_mass: 3529.513436, diff: -31.946563999999853, PTM: ['<modification position="31" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="6" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq125####
+Seq: GDACSLLNGDDCGPGELCCTPSGDHQGTCETSCW, mono_mass: 3456.2, calculated_mass: 3424.261085, diff: -31.938914999999724, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="14" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq126####
+Seq: TFEPNAEECIVDGRCKHRSDWPCEMSSGTTGRCDVSLGACGCSN, mono_mass: 4832.86, calculated_mass: 4700.9433420000005, diff: -131.9166579999992, PTM: ['<modification position="24" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="8" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq127####
+Seq: DDETTFPCNSGRCACLPEDSHSYTCQSP, mono_mass: 3090.14, calculated_mass: 3058.1786629999997, diff: -31.961337000000185, PTM: ['<modification position="28" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="17" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq128####
+Seq: CCHPACGKHFNC, mono_mass: 1330.45, calculated_mass: 1314.4827690000002, diff: -15.967230999999856, PTM: ['<modification position="4" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq129####
+Seq: DKWGTCSLLGKGCRHHSDCCWDLCCTGKTCVMTVLPCLFLSLIVRWT, mono_mass: 5295.4, calculated_mass: 5279.467482000001, diff: -15.932517999998709, PTM: ['<modification position="36" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq130####
+Seq: TTAESWWEGECLGWSNGCTHPSDCCSNYCKGIYCDL, mono_mass: 4105.41, calculated_mass: 4011.550725000001, diff: -93.85927499999889, PTM: ['<modification position="21" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="6" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq131####
+Seq: SCDSEFSSEFCEQPEERICSCSTHVCCHLSSRKRDQCMTWNRCLSAQTGN, mono_mass: 5929.23, calculated_mass: 5709.349561000003, diff: -219.88043899999684, PTM: ['<modification position="16" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="12" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq132####
+Seq: SCDSEFSSEFCEQPEERICSCSTHVCCHLSSRQKGSQCTTWNRCLSAQTGN, mono_mass: 5856.24, calculated_mass: 5680.340769000002, diff: -175.8992309999976, PTM: ['<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="12" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="5" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq133####
+Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACLIF, mono_mass: 5548.03, calculated_mass: 5328.14534, diff: -219.8846599999997, PTM: ['<modification position="40" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="16" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="12" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq134####
+Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHIF, mono_mass: 5572.0, calculated_mass: 5352.120188, diff: -219.87981200000013, PTM: ['<modification position="40" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="16" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="12" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq135####
+Seq: LCDSYISSELCEHPEETCFCPNHMCCPLSPYRQDQCMYWEACHTF, mono_mass: 5559.97, calculated_mass: 5340.083802, diff: -219.88619800000015, PTM: ['<modification position="40" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="16" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="15" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="12" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="9" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq136####
+Seq: DWVNHAHPQPNSIWS, mono_mass: 1818.81, calculated_mass: 1786.817564, diff: -31.992435999999998, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq137####
+Seq: CLDGGEICGICFQAAAVGGALFSSAHETTVMSSTPLCATWLDL, mono_mass: 4418.87, calculated_mass: 4340.987344000001, diff: -77.88265599999886, PTM: ['<modification position="40" symbol="BTr" name="Bromotryptophan"/>\n']
+####seq138####
+Seq: CIDGGEICDIFFQTAAVGGALFSSAHETTVMSSTPLCATWLDL, mono_mass: 4563.03, calculated_mass: 4475.062619000001, diff: -87.96738099999857, PTM: ['<modification position="6" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="27" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq139####
+Seq: CLDAGEMCDLLIQNAAVGGALFSSAHKTTVMSSTPLCATWLDL, mono_mass: 4589.0, calculated_mass: 4451.1136080000015, diff: -137.88639199999852, PTM: ['<modification position="40" symbol="BTr" name="Bromotryptophan"/>\n', '<modification position="35" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="6" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq140####
+Seq: CCQIVPQCCEWVSD, mono_mass: 1651.58, calculated_mass: 1607.6189880000002, diff: -43.961011999999755, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq141####
+Seq: ACCVYKICYPC, mono_mass: 1276.47, calculated_mass: 1260.511275, diff: -15.958724999999959, PTM: ['<modification position="10" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq142####
+Seq: CSSGKTCGSVEPVLCCARSDCYCRLIQTRSYWVPICVCP, mono_mass: 4308.85, calculated_mass: 4276.9201539999995, diff: -31.929846000000907, PTM: ['<modification position="34" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq143####
+Seq: CRSGKTCPRVGPDVCCERSDCFCKLVPARPFWRYRCICL, mono_mass: 4606.03, calculated_mass: 4514.11684, diff: -91.91316000000006, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="27" symbol="O" name="4-Hydroxyproline"/>\n', '<modification position="17" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq144####
+Seq: STDCNGVPCQFGCCVTINGNDECRELDC, mono_mass: 3004.09, calculated_mass: 2988.13806, diff: -15.951939999999922, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq145####
+Seq: IEEDCGYVPCEFGCCRIIDGKEKCREIDCQ, mono_mass: 3462.41, calculated_mass: 3446.463753000001, diff: -15.946246999998948, PTM: ['<modification position="9" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq146####
+Seq: STDCNGVPCEFGCCVTINGNDECREIGCE, mono_mass: 3076.11, calculated_mass: 3060.159189000001, diff: -15.950810999999248, PTM: ['<modification position="8" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq147####
+Seq: NCCPIDEESCCS, mono_mass: 1341.36, calculated_mass: 1297.4032409999998, diff: -43.95675900000015, PTM: ['<modification position="7" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq148####
+Seq: CCDDSECSTSCWPCCY, mono_mass: 1813.45, calculated_mass: 1797.5013150000002, diff: -15.948684999999841, PTM: ['<modification position="13" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq149####
+Seq: NCPYCVVYCCPPAYCQASGCRPP, mono_mass: 2502.93, calculated_mass: 2486.9866330000004, diff: -15.943366999999398, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
+####seq150####
+Seq: ADEEYLKFIEEQRKQGKLDPTKFP, mono_mass: 3040.47, calculated_mass: 2908.49707, diff: -131.9729299999999, PTM: ['<modification position="10" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="4" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n', '<modification position="3" symbol="Gla" name="Gamma carboxylic glutamic acid"/>\n']
+####seq151####
+Seq: SCGGSCFGGCWPGCSCYARTCFRD, mono_mass: 2531.86, calculated_mass: 2515.9152569999997, diff: -15.944743000000472, PTM: ['<modification position="12" symbol="O" name="4-Hydroxyproline"/>\n']
